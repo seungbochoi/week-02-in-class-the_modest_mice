@@ -2,10 +2,10 @@
 
 Have one person fill in the names of who is doing this:
 
-1. _______________________________
-2. _______________________________
-3. _______________________________
-4. _______________________________
+1. Blake Hansen
+2. Camilla Calmasini
+3. Kirsten Voorhies
+4. Nicole Hardy
 
 # In-Class
 
